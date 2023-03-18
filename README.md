@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **drahulsingh124@gmail.com**
 
-- ☁️ Know about my Google Cloud experiences -> [<img align="center" alt="gcp" width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*gJ5RBdc0sbO0IxkZ_YU_YQ.gif">](https://www.cloudskillsboost.google/public_profiles/ee05c0a2-f570-4d63-9ef6-5b88615b9404)
+- ☁️ Know about my Google Cloud experiences [<img align="center" alt="gcp" width="100" src="https://miro.medium.com/v2/resize:fit:1400/1*gJ5RBdc0sbO0IxkZ_YU_YQ.gif">](https://www.cloudskillsboost.google/public_profiles/ee05c0a2-f570-4d63-9ef6-5b88615b9404)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
