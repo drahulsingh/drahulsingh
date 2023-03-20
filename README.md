@@ -15,7 +15,7 @@
 
 - ☁️ Know about my Google Cloud experiences [<img align="center" alt="gcp" width="100" src="https://miro.medium.com/v2/resize:fit:1400/1*gJ5RBdc0sbO0IxkZ_YU_YQ.gif">](https://www.cloudskillsboost.google/public_profiles/ee05c0a2-f570-4d63-9ef6-5b88615b9404)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 😎:</h3>
 <p align="left">
 <a href="https://twitter.com/rahulsinghd24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulsinghd24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/d-rahulsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d-rahulsingh" height="30" width="40" /></a>
