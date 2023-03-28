@@ -20,7 +20,7 @@
 <a href="https://twitter.com/rahulsinghd24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulsinghd24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/d-rahulsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d-rahulsingh" height="30" width="40" /></a>
 <a href="https://instagram.com/rahulsingh_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulsingh_d" height="30" width="40" /></a>
-<a href="https://discord.gg/DamK2WK7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DamK2WK7" height="30" width="40" /></a>
+<a href="https://discord.gg/ejkEjvDD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DamK2WK7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
