@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=154c79&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+D+Rahulsingh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=eeeee4&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+D+Rahulsingh)](https://git.io/typing-svg)
 
 <h2 align="center">A Passionate Machine Learning and Cloud Developer from India</h2>
 <h3 align="justify">Recent IT graduate with expertise in data, software, and cloud computing. Analytical and detail-oriented, with a proven track record of success in problem-solving. Skilled in data analysis, software development, and cloud computing to create innovative solutions for complex problems. Experienced in implementing cutting-edge technologies and best practices to increase efficiency and reduce costs. Passionate about leveraging technology to help organizations reach their goals. Ready to take on new challenges and develop my skills even further.</h3>
