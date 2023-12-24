@@ -7,6 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=formless01&label=Profile%20views&color=0e75b6&style=flat" alt="formless01" /> </p>
 
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/discussion/" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/notebook/" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/dataset/" />
+<!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/drahulsingh/" />  -->
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=formless01" alt="formless01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rahulsinghd24" target="blank"><img src="https://img.shields.io/twitter/follow/rahulsinghd24?logo=twitter&style=for-the-badge" alt="rahulsinghd24" /></a> </p>
