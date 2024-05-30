@@ -5,7 +5,7 @@
 
 <!-- <img align="center" alt="coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drahulsingh&label=Profile%20views&color=0e75b6&style=flat" alt="formless01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drahulsingh&label=Profile%20views&color=0e75b6&style=flat" alt="drahulsingh" /> </p>
 
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/discussion/" />
