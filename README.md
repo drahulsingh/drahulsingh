@@ -25,12 +25,10 @@
 ## My Cloud Computing Skills
 - **☁️ Know about my Google Cloud experiences**
   
-[![gcp-](https://github.com/drahulsingh/drahulsingh/assets/76787888/a5071ccd-93f5-47b6-bf02-7cf581f12f9f)](https://www.cloudskillsboost.google/public_profiles/ee05c0a2-f570-4d63-9ef6-5b88615b9404)
-
+[![gcp](https://github.com/drahulsingh/drahulsingh/assets/76787888/0234dd24-0d3c-4392-9b21-334eba9c60ca)](https://www.cloudskillsboost.google/public_profiles/ee05c0a2-f570-4d63-9ef6-5b88615b9404)
 - **☁️ Know about my Microsoft Azure experiences**
   
-[![az-](https://github.com/drahulsingh/drahulsingh/assets/76787888/5e54dd94-312f-4621-8139-c1b3cd3862ca)](https://learn.microsoft.com/en-us/users/drahulsingh/)
-
+[![az](https://github.com/drahulsingh/drahulsingh/assets/76787888/ea10cf09-01b1-4e39-9639-e5f738842ea1)](https://learn.microsoft.com/en-us/users/drahulsingh/)
 
 
 
