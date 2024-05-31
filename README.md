@@ -31,14 +31,13 @@
 [![az](https://github.com/drahulsingh/drahulsingh/assets/76787888/ea10cf09-01b1-4e39-9639-e5f738842ea1)](https://learn.microsoft.com/en-us/users/drahulsingh/)
 
 
-
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahulsinghd24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulsinghd24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/d-rahulsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d-rahulsingh" height="30" width="40" /></a>
 <a href="https://kaggle.com/drahulsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="drahulsingh" height="30" width="40" /></a>
-<a href="https://instagram.com/rahulsingh_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulsingh_d" height="30" width="40" /></a>
+<a href="https://instagram.com/_rahulsingh_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahulsingh_d" height="30" width="40" /></a>
 <a href="https://discord.gg/DamK2WK7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DamK2WK7" height="30" width="40" /></a>
 </p>
 
