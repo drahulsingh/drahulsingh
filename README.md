@@ -19,11 +19,22 @@
 
 - 📫 How to reach me **drahulsingh124@gmail.com**
 
-- ☁️ Know about my Google Cloud experiences=>[<img align="center" alt="gcp" height="100" width="170" src="https://miro.medium.com/v2/resize:fit:1400/1*gJ5RBdc0sbO0IxkZ_YU_YQ.gif">](https://www.cloudskillsboost.google/public_profiles/ee05c0a2-f570-4d63-9ef6-5b88615b9404)
+<!--- ☁️ Know about my Google Cloud experiences=>[<img align="center" alt="gcp" height="100" width="170" src="https://miro.medium.com/v2/resize:fit:1400/1*gJ5RBdc0sbO0IxkZ_YU_YQ.gif">](https://www.cloudskillsboost.google/public_profiles/ee05c0a2-f570-4d63-9ef6-5b88615b9404)
+- ☁️ Know about my Microsoft Azure experiences=>[<img align="center" alt="azure" height="100" width="170" src="https://cdn.dribbble.com/users/3847465/screenshots/10765125/media/e5f08353be5952c5bfd4a759903d5c5a.gif">](https://learn.microsoft.com/en-us/users/drahulsingh/) ![az-](https://github.com/drahulsingh/drahulsingh/assets/76787888/5e54dd94-312f-4621-8139-c1b3cd3862ca)
+-->
+## My Cloud Computing Skills
+- **☁️ Know about my Google Cloud experiences**
+  
+[![gcp-](https://github.com/drahulsingh/drahulsingh/assets/76787888/a5071ccd-93f5-47b6-bf02-7cf581f12f9f)](https://www.cloudskillsboost.google/public_profiles/ee05c0a2-f570-4d63-9ef6-5b88615b9404)
 
-- ☁️ Know about my Microsoft Azure experiences=>[<img align="center" alt="azure" height="100" width="170" src="https://cdn.dribbble.com/users/3847465/screenshots/10765125/media/e5f08353be5952c5bfd4a759903d5c5a.gif">](https://learn.microsoft.com/en-us/users/drahulsingh/)
+- **☁️ Know about my Microsoft Azure experiences**
+  
+[![az-](https://github.com/drahulsingh/drahulsingh/assets/76787888/5e54dd94-312f-4621-8139-c1b3cd3862ca)](https://learn.microsoft.com/en-us/users/drahulsingh/)
 
-- 
+
+
+
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahulsinghd24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulsinghd24" height="30" width="40" /></a>
