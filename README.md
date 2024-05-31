@@ -13,7 +13,7 @@
 <!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/drahulsingh/" />  -->
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drahulsingh" alt="drahulsingh" /></a> </p>
+![trophy](https://github-profile-trophy.vercel.app/?username=drahulsingh&theme=darkhub&row=1&column=8)
 
 <p align="left"> <a href="https://twitter.com/rahulsinghd24" target="blank"><img src="https://img.shields.io/twitter/follow/rahulsinghd24?logo=twitter&style=for-the-badge" alt="rahulsinghd24" /></a> </p>
 
