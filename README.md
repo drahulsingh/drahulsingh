@@ -3,11 +3,9 @@
 <h2 align="left">Kaggle 2X Grandmaster & 1X Master 🏆 | Tech, Cloud & ML Enthusiast 💻 | Former Google Cloud Ready Facilitator ☁️</h2>
 <h3 align="justify">Recent IT graduate with expertise in data, software, and cloud computing. Analytical and detail-oriented, with a proven track record of success in problem-solving. Skilled in data analysis, software development, cloud computing, and Machine Learning to create innovative solutions for complex problems. Experienced in implementing cutting-edge technologies and best practices to increase efficiency and reduce costs. Passionate about leveraging technology to help organizations reach their goals. Ready to take on new challenges and develop my skills even further.</h3>
 
-<!-- <img align="center" alt="coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drahulsingh&label=Profile%20views&color=0e75b6&style=flat" alt="drahulsingh" /> </p>
-<!---p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/discussion/" />
+<p align="center">
+  <!---img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/discussion/" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/notebook/" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/dataset/" />
 <!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/drahulsingh/" />  -->
@@ -19,9 +17,6 @@
 
 - 📫 How to reach me **drahulsingh124@gmail.com**
 
-<!--- ☁️ Know about my Google Cloud experiences=>[<img align="center" alt="gcp" height="100" width="170" src="https://miro.medium.com/v2/resize:fit:1400/1*gJ5RBdc0sbO0IxkZ_YU_YQ.gif">](https://www.cloudskillsboost.google/public_profiles/ee05c0a2-f570-4d63-9ef6-5b88615b9404)
-- ☁️ Know about my Microsoft Azure experiences=>[<img align="center" alt="azure" height="100" width="170" src="https://cdn.dribbble.com/users/3847465/screenshots/10765125/media/e5f08353be5952c5bfd4a759903d5c5a.gif">](https://learn.microsoft.com/en-us/users/drahulsingh/) ![az-](https://github.com/drahulsingh/drahulsingh/assets/76787888/5e54dd94-312f-4621-8139-c1b3cd3862ca)
--->
 ## My Cloud Computing Skills
 - **☁️ Know about my Google Cloud experiences**
   
@@ -30,8 +25,6 @@
   
 [![az](https://github.com/drahulsingh/drahulsingh/assets/76787888/ea10cf09-01b1-4e39-9639-e5f738842ea1)](https://learn.microsoft.com/en-us/users/drahulsingh/)
 
-
- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahulsinghd24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulsinghd24" height="30" width="40" /></a>
