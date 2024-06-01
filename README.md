@@ -66,8 +66,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=drahulsingh&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a> </p>
 </div>
-<div align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=drahulsingh&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph"height="249"width="498"alt="activity-graph graph" />
-</div>
+<div align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=drahulsingh&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph"height="249"width="498"alt="activity-graph graph" /> </div>
+
 ![drahulsingh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drahulsingh&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
 
 ## GitHub Trophies
