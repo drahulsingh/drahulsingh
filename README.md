@@ -60,15 +60,15 @@
 ## GitHub Stats:
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <a href="http://www.github.com/drahulsingh">
-    <img src="https://github-readme-stats.vercel.app/api?username=drahulsingh&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="drahulsingh's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=drahulsingh&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="drahulsingh's GitHub stats"/>
   </a>
- <p align="left"> <a href="http://www.github.com/drahulsingh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=drahulsingh&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+ <p align="left"> <a href="http://www.github.com/drahulsingh"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=drahulsingh&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/> 
   </a> </p>
 </div>
-<div align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=drahulsingh&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph"height="249"width="498"alt="activity-graph graph" /> </div>
 
 ![drahulsingh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drahulsingh&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
+
+<!-- div align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=drahulsingh&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph"height="300"alt="activity-graph graph" /> </div> --->
 
 ## GitHub Trophies
 
