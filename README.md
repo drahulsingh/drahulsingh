@@ -9,7 +9,6 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/notebook/" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/dataset/" />
 <!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/drahulsingh/" />  -->
-</p>
 
 - 📫 How to reach me **drahulsingh124@gmail.com**
 
