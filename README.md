@@ -55,13 +55,11 @@
 [![gcp](https://github.com/drahulsingh/drahulsingh/assets/76787888/0234dd24-0d3c-4392-9b21-334eba9c60ca)](https://www.cloudskillsboost.google/public_profiles/ee05c0a2-f570-4d63-9ef6-5b88615b9404)
 - **☁️ Know about my Microsoft Azure experiences**
   
-[![az](https://github.com/drahulsingh/drahulsingh/assets/76787888/ea10cf09-01b1-4e39-9639-e5f738842ea1)](https://learn.microsoft.com/en-us/users/drahulsingh/)
+[![az](https://github.com/drahulsingh/drahulsingh/assets/76787888/ea10cf09-01b1-4e39-9639-e5f738842ea1)](https://learn.microsoft.com/en-us/users/drahulsingh/&hide=issues,contribs&count_private=true&)
 
 ## GitHub Stats:
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <a href="http://www.github.com/drahulsingh">
-    <img src="https://github-readme-stats.vercel.app/api?username=drahulsingh&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="drahulsingh's GitHub stats"/>
-  </a>
+![GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=drahulsingh&show_icons=true&theme=github_dark&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true")
+
  <p align="left"> <a href="http://www.github.com/drahulsingh"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=drahulsingh&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/> 
   </a> </p>
 </div>
@@ -79,5 +77,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-<!--- ![GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=drahulsingh&show_icons=true&theme=github_dark)
+<!---![GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=drahulsingh&show_icons=true&theme=github_dark)
 <!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drahulsingh&theme=github_dark" alt="drahulsingh"/> </p> 
