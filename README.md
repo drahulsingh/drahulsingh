@@ -56,6 +56,9 @@
   
 [![az](https://github.com/drahulsingh/drahulsingh/assets/76787888/ea10cf09-01b1-4e39-9639-e5f738842ea1)](https://learn.microsoft.com/en-us/users/drahulsingh/&hide=issues,contribs&count_private=true&)
 
+<!--![aws- ](https://github.com/drahulsingh/drahulsingh/assets/76787888/22e32fff-3df9-42ef-83ca-7e8df262ec1f)-->
+
+
 ## GitHub Stats:
 ![GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=drahulsingh&show_icons=true&theme=github_dark&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true")
 
