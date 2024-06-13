@@ -3,6 +3,8 @@
 <h1 align="left">Kaggle 2X Grandmaster & 1X Master 🏆 | Former Google Cloud Ready Facilitator ☁️ | Tech, Cloud & ML Enthusiast 💻 | Open Source Contributor 🌐</h1>
 <h3 align="justify">IT graduate with expertise in data, software, and cloud computing. Analytical and detail-oriented, with a proven track record of success in problem-solving. Experienced in implementing cutting-edge technologies and best practices to increase efficiency and reduce costs. Passionate about leveraging technology to help organizations reach their goals. Ready to take on new challenges and develop my skills even further.</h3>
 
+<p align="left"> <img src= https://media.licdn.com/dms/image/C5616AQGv6ZBRu1BhuQ/profile-displaybackgroundimage-shrink_350_1400/0/1668270356160?e=1723680000&v=beta&t=BGYcnXgaZ939ujxL5ufepGO9NBhOpeBp4OD3tojDXX4 /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drahulsingh&label=Profile%20views&color=0e75b6&style=flat" alt="drahulsingh" /> </p>
 
   <!---img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/discussion/" />
