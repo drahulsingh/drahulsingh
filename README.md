@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drahulsingh&label=Profile%20views&color=0e75b6&style=flat" alt="drahulsingh" /> </p>
 
-  <!---img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/discussion/" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/discussion/" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/notebook/" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/dataset/" />
 <!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/drahulsingh/" />  -->
