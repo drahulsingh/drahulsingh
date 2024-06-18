@@ -62,7 +62,7 @@
 <!-- **☁️ Know about my AWS experiences**![aws- ](https://github.com/drahulsingh/drahulsingh/assets/76787888/22e32fff-3df9-42ef-83ca-7e8df262ec1f)--->
 
 
-## GitHub Stats:
+## GitHub Stats
 ![GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=drahulsingh&show_icons=true&theme=github_dark&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true")
 
  <p align="left"> <a href="http://www.github.com/drahulsingh"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=drahulsingh&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/> 
