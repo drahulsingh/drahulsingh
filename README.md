@@ -13,8 +13,8 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/drahulsingh/dataset/" />
 <!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/drahulsingh/" />  -->
 
-- 📫 How to reach me **drahulsingh124@gmail.com**
-
+<!-- 📫 How to reach me **drahulsingh124@gmail.com**
+-->
 ## Socials
 <p align="left">
 <a href="https://www.github.com/drahulsingh" target="_blank" rel="noreferrer">
