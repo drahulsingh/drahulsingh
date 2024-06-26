@@ -79,7 +79,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=drahulsingh&theme=react-dark)
 ![trophy](https://github-profile-trophy.vercel.app/?username=drahulsingh&theme=onedark)
 
 
