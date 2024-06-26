@@ -78,9 +78,3 @@
 ## Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=drahulsingh&theme=onedark)
-
-
-
-
