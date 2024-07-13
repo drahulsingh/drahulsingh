@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=0979FC&left=true&width=835&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahul)](https://gitio/typing-svg)
 
-<h1 align="left">Kaggle 2X Grandmaster & 1X Master 🏆 | Former Google Cloud Ready Facilitator ☁️ | Tech, Cloud & ML Enthusiast 💻 | Open Source Contributor 🌐 </h1>
+<h1 align="left">Kaggle 2x Grandmaster & 1x Master 🏆 | Former Google Cloud Ready Facilitator ☁️ | Tech, Cloud & ML Enthusiast 💻 | Open Source Contributor 🌐 </h1>
 
 <p align="left"> <img src= https://media.licdn.com/dms/image/C5616AQGv6ZBRu1BhuQ/profile-displaybackgroundimage-shrink_350_1400/0/1668270356160?e=1723680000&v=beta&t=BGYcnXgaZ939ujxL5ufepGO9NBhOpeBp4OD3tojDXX4 /> </p>
 
