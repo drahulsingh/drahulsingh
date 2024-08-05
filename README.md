@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=299DC&left=true&width=835&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahul)](https://gitio/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=209DC&left=true&width=835&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahul)](https://gitio/typing-svg)
 
 <h1 align="left">Kaggle 1x Grandmaster & 2x Master 🏆 | Former Google Cloud Ready Facilitator ☁️ | Tech, Cloud & ML Enthusiast 💻 | Open Source Contributor 🌐 </h1>
 
