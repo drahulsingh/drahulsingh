@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://i.imghippo.com/files/H09t81723891195.png" alt="" border="0"> </p>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drahulsingh&label=Profile%20views&color=0e75b6&style=flat" alt="drahulsingh" /> </p>
 <h3 align="justify">Software Engineer with strong expertise in Python, SQL, AWS, GCP, Azure, REST APIs, Gen AI, and scalable backend architecture. I design and build secure, high-performance systems and full-stack web applications with a focus on cloud efficiency, automation, and reliability. My experience spans microservices, distributed systems, CI/CD, and modern web technologies.
 
