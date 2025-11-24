@@ -6,7 +6,13 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drahulsingh&label=Profile%20views&color=0e75b6&style=flat" alt="drahulsingh" /> </p>
-<h3 align="justify">I am an IT professional with expertise in data, software, and cloud computing. Analytical and detail-oriented, with a proven track record of success in problem-solving. Experienced in implementing cutting-edge technologies and best practices to increase efficiency and reduce costs. Passionate about leveraging technology to help organizations reach their goals. Ready to take on new challenges and develop my skills even further.</h3>
+<h3 align="justify">Software Engineer with strong expertise in Python, SQL, AWS, GCP, Azure, REST APIs, Gen AI, and scalable backend architecture. I design and build secure, high-performance systems and full-stack web applications with a focus on cloud efficiency, automation, and reliability. My experience spans microservices, distributed systems, CI/CD, and modern web technologies.
+
+As a Kaggle Grandmaster, I bring deep knowledge in AI, machine learning, and large-scale data processing, applying data-driven insights to build smarter and more efficient products. I excel at debugging complex issues, optimizing system performance, and delivering production-ready features in fast-paced engineering environments.
+
+Known for ownership, collaboration, and a problem-solving mindset, I thrive in teams that value innovation, quality, and continuous improvement.
+
+Open to opportunities in backend engineering, cloud engineering, full-stack development, platform engineering, and AI/ML-driven product teams.</h3>
 
 
 
